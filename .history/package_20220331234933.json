@@ -1,5 +1,5 @@
 {
-  "name": "toast-image-ui",
+  "name": "root",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.15.0",

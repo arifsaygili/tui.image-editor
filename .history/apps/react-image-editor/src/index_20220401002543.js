@@ -3,7 +3,7 @@
  * @fileoverview TOAST UI Image-Editor React wrapper component
  */
 import React from 'react';
-import TuiImageEditor from '../../image-editor/dist/tui-image-editor';
+import TuiImageEditor from 'tui-image-editor';
 
 export default class ImageEditor extends React.Component {
   rootEl = React.createRef();
