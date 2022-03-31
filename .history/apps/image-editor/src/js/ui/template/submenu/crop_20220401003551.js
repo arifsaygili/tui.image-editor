@@ -53,7 +53,7 @@ export default ({ locale, makeSvgIcon }) => `
                 <div>
                     ${makeSvgIcon(['normal', 'active'], 'crop', true)}
                 </div>
-                <label> ${locale.localize('3:4')} </label>
+                <label> ${locale.localize('3-4')} </label>
             </div>
         </li>
         <li class="tui-image-editor-partition tui-image-editor-newline">

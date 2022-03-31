@@ -395,9 +395,6 @@ export default {
             case 'preset-16-9':
               this.setCropzoneRect(16 / 9);
               break;
-            case 'preset-3-4':
-              this.setCropzoneRect(3 / 4);
-              break;
             default:
               this.setCropzoneRect();
               this.ui.crop.changeApplyButtonStatus(false);
